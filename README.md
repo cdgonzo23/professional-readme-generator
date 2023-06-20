@@ -10,5 +10,5 @@ Once the npm package has been installed, type `node index.js` in the terminal an
 ### Resources
 [Github Repo](https://github.com/cdgonzo23)
 
-### Screenshot
+### Example Screenshot
 ![UserREADME Screenshot](./images/userREADMEexample.png)
