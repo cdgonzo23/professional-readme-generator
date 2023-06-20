@@ -1,38 +1,13 @@
-# N/A
-  ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-  ## Table of Contents
-  - [Description](#description)
-  - [Installation Instructtions](#installation)
-  - [Usage Information](#usage)
-  - [Contribution Guidelines](#contributing)
-  - [Test Instructions](#tests)
-  - [License](#license)
-  - [GitHub Account](#gitHub)
-  - [Contact Information](#email)
+# Professional README Generator
+## Description
+The purpose of this aplication is to build a custom README based off of the user input folllowing a series of commands. It formats the document as well and builds a table of contents based off of the users input. This program utilizes node.js and inquirer in order to prompt and the user and place the users information in the README.
+## Installation
+To run this application you will need to first clone the code from this repository, then navigate to the correct directory, and finally run `npm install` in your terminal.
+## Usage
+Once the npm package has been installed, type `node index.js` in the terminal and you will be presented with a series of prompts whoich will then lead to your generated README.
 
-  ## Description
-  N/A
-
-  ## Installation
-  N/A
-
-  ## Usage
-  N/A
-
-  ## Contributing
-  N/A
-
-  ## Tests
-  N/A
-
-  ## License
-  This application is covered under the 
-  [MIT](https://opensource.org/licenses/MIT) License.
-
-  ### GitHub
-  https://github.com/N/A
-
-  ### Email
-  Please email me at N/A if you have any further questions. Thank You!
+Here is a video walkthrough: 
+### Resources
+[Github Repo](https://github.com/cdgonzo23)
 
   
