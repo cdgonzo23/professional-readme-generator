@@ -20,9 +20,10 @@ module.exports = [
         default: 'N/A',
     },
     {
-        message: 'Please enter the license used for your project',
+        type: 'list',
+        message: 'Please select the license used for your project',
         name: 'license',
-        default: 'N/A',
+        choices: ['MIT', 'Apache', 'ISC', 'GNU', 'Boost', 'N/A'],
     },
     {
         message: 'Please enter the contributors for this project',
