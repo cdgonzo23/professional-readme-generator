@@ -9,7 +9,7 @@ prompt(questions).then((answers) => {
     const readMe = utils.generateMarkdown(answers)
     console.log(answers);
     try {
-        fs.writeFileSync('sampleREADME.md', readMe);
+        fs.writeFileSync('userREADME.md', readMe);
     } catch (err) {
         console.log(err);
     }
