@@ -6,8 +6,9 @@ To run this application you will need to first clone the code from this reposito
 ## Usage
 Once the npm package has been installed, type `node index.js` in the terminal and you will be presented with a series of prompts whoich will then lead to your generated README.
 
-Here is a video walkthrough: 
+[Click here](./images/walkthrough.mp4) for a video walkthrough
 ### Resources
 [Github Repo](https://github.com/cdgonzo23)
 
-  
+### Screenshot
+![UserREADME Screenshot](./images/userREADMEexample.png)
